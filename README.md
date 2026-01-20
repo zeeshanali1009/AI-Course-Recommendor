@@ -1,5 +1,5 @@
 
-## 📘 **AI‑Course‑Recommendor
+## 📘 AI‑Course‑Recommendor
 
 **AI‑Course‑Recommendor** is a machine learning‑powered system designed to help learners discover relevant online courses based on their interests, skills, or past course interactions. It uses artificial intelligence techniques — such as content‑based filtering (text similarity of course descriptions) and collaborative‑filtering approaches — to recommend courses that match the user’s preferences and learning goals.
 
